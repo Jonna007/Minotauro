@@ -1,0 +1,9 @@
+.image-section {
+    height: 100px;
+    width: 100%;
+    background-image: url('https://i.pinimg.com/736x/6c/89/68/6c8968bb3717cb4102531bb0ed8bfea0.jpg');
+    background-size: 300px 400px; 
+    background-position: 50% 76%;
+    background-repeat: no-repeat;
+
+  }
